@@ -94,7 +94,7 @@ void SuperHero(void)
     else
     {
         printf("\t\tError! Choose from the options above(1-3)!\n\n");
-        if (getc())
+        if (fgetchar())
         {
             system("cls");
         }
@@ -318,7 +318,7 @@ void Horror(void)
     else
     {
         printf("\t\tError! Choose from the options above(1-3)!\n\n");
-        if (getc())
+        if (fgetchar())
         {
             system("cls");
         }
