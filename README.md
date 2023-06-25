@@ -1,2 +1,2 @@
 # MovieTicketManagementSystem
-So Here is my a small work on Movie Ticket Management System Named "StrangeFlix". Hope you will all like it.
+So Here is a small work on Movie Ticket Management System Named "StrangeFlix" in C. Hope you will all like it.
